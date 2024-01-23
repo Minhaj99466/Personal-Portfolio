@@ -29,7 +29,7 @@ function Skills() {
             {/* <FaHtml5 /> */}
             {/* <AiFillHtml5 /> */}
           </div>
-          <div >
+          <div className="md:flex md:justify-between bg-brown-800">
             <AiFillAmazonCircle className="w-32 h-32" />
             <AiFillAmazonCircle className="w-32 h-32" />
             <AiFillAmazonCircle className="w-32 h-32" />
